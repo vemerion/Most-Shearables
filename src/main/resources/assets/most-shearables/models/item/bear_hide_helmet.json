@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "most-shearables:item/bear_hide_helmet"
+  }
+}   

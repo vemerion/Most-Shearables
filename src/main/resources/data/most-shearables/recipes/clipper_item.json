@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  g",
+    " s ",
+    "g  "
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:shears"
+    },
+    "g":
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "most-shearables:clipper_item"
+  }
+}

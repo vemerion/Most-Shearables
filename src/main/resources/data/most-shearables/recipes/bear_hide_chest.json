@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "h h",
+    "hhh",
+    "hhh"
+  ],
+  "key":
+  {
+    "h":
+    {
+      "item": "most-shearables:bear_hide"
+    }
+  },
+  "result":
+  {
+    "item": "most-shearables:bear_hide_chest"
+  }
+}

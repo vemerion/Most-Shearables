@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "h h",
+    "h h"
+  ],
+  "key":
+  {
+    "h":
+    {
+      "item": "most-shearables:pig_skin"
+    }
+  },
+  "result":
+  {
+    "item": "most-shearables:pig_skin_boots"
+  }
+}
